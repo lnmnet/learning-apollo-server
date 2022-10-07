@@ -1,2 +1,1 @@
-# learning-apollo-server
-apollo graph
+node index.js
